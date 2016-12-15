@@ -405,7 +405,7 @@
 				INFOPLIST_FILE = "TextClock iOS/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com;
+				PRODUCT_BUNDLE_IDENTIFIER = com.twokingstudio.textclock.100;
 				PRODUCT_NAME = TextClock;
 				PROVISIONING_PROFILE = "";
 			};
@@ -420,7 +420,7 @@
 				INFOPLIST_FILE = "TextClock iOS/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com;
+				PRODUCT_BUNDLE_IDENTIFIER = com.twokingstudio.textclock.100;
 				PRODUCT_NAME = TextClock;
 				PROVISIONING_PROFILE = "";
 			};
